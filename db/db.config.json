@@ -1,0 +1,32 @@
+{
+    "development": {
+        "HOST": "127.0.0.1",
+        "USER": "root",
+        "PASSWORD": "123456789",
+        "DB": "bme_test",
+        "dialect": "mysql",
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "acquire": 30000,
+            "idle": 10000
+        },
+        "DB_FORCE_ALTER": false,
+        "DB_FORCE_DROP": false
+    },
+    "production": {
+        "HOST": "217.21.95.52",
+        "USER": "u157274735_prod_root",
+        "PASSWORD": "Madbrain@121211",
+        "DB": "u157274735_BME_PRODUCTION",
+        "dialect": "mysql",
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "acquire": 30000,
+            "idle": 10000
+        },
+        "DB_FORCE_ALTER": false,
+        "DB_FORCE_DROP": false
+    }
+}
