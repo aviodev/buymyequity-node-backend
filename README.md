@@ -31,4 +31,7 @@ The server exposes the following main API endpoints:
 **Developed by:** Abhishek Das  
 **Year:** 2022
 
-> _This section is reserved for documenting specific functions, classes, or modules. Please provide a brief description, including parameter types and return values, as shown in the template below:_
+> This section is reserved for documenting specific functions, classes, or modules.
+> Please note: The code in this project is part of a personal portfolio and is protected intellectual property.
+You are welcome to take inspiration or learn from the structure or ideas, but do not copy or reuse the code directly without permission.
+If you'd like to understand the implementation or seek guidance, feel free to reach out.
